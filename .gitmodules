@@ -1,0 +1,6 @@
+[submodule "checkers_probabilities"]
+	path = checkers_probabilities
+	url = https://github.com/gbravoi/checkers_probabilities
+[submodule "gazebo_checkers"]
+	path = gazebo_checkers
+	url = https://github.com/gbravoi/gazebo_checkers.git
